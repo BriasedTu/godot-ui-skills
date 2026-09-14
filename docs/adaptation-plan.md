@@ -12,7 +12,7 @@ steps. Do not embed any individual game's architecture or art direction.
 - [x] Bundle standalone native examples and run lifecycle regressions in Godot.
 - [x] Independently exercise the new skills; correct observed gaps.
 - [x] Validate isolated skill packaging, native-only guidance and source attribution.
-- [ ] Publish the verified commit to BriasedTu/godot-ui-skills as a private repository.
+- [x] Publish the verified commit to BriasedTu/godot-ui-skills as a private repository.
 
 The baseline rejected keyboard feedback before considering latency, prescribed
 non-native animation tools, and could not specify container ownership, pause
